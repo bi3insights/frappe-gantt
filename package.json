@@ -3,7 +3,6 @@
   "version": "0.6.1",
   "description": "A simple, modern, interactive gantt library for the web",
   "main": "src/index.js",
-  "type": "module",
   "scripts": {
     "start": "yarn run dev",
     "build": "rollup -c",
